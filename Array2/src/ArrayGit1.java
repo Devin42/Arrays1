@@ -1,5 +1,4 @@
 
-
 public class ArrayGit1 {
 
 	//comment
